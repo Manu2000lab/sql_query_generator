@@ -64,7 +64,6 @@ Building both shows the difference between a context-aware AI tool (grounded in 
 ai-sql-generator/
 ├── sql_generator.py     # Core logic: prompt construction, SQL generation
 ├── app.py                # Streamlit web interface
-├── requirements.txt
 ├── app_screenshot.png
 └── README.md
 ```
